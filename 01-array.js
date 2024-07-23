@@ -7,5 +7,6 @@ media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length
 console.log(media)
 
 console.log('----------------------')
+// não é comum e deve ser evitado
 const lista = [10, 'oi', true, [1, 2], {a:'B'}]
 console.log(lista)
